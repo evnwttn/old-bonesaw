@@ -13,5 +13,9 @@ COLOUR PALETTE
 */
 
 html {
-  background-color: black;
+  background-image: linear-gradient(#252625, #bf5f56);
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
