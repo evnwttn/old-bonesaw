@@ -28,3 +28,24 @@ html {
   background-image: linear-gradient(#0d0d0d, transparent);
   position: absolute;
 }
+
+#url {
+  outline: none;
+  font-size: 2.5em;
+  width: 33%;
+  height: 15%;
+  position: absolute;
+  top: 20%;
+  left: 7.5%;
+  color: #d2d7d9;
+  background: transparent;
+  border-bottom: 5px solid #5d7373;
+  border-left: transparent;
+  border-right: 4px solid #637371;
+  border-top: transparent;
+}
+
+#top-icons {
+  position: absolute;
+  right: 5%;
+}
