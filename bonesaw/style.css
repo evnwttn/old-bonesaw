@@ -21,10 +21,10 @@ html {
 }
 
 #box-1 {
-  top: 11%;
-  left: 56%;
-  width: 37%;
+  top: 16%;
+  left: 20%;
+  width: 72%;
   height: 47%;
-  background-color: #0d0d0d;
+  background-image: linear-gradient(#0d0d0d, transparent);
   position: absolute;
 }
