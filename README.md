@@ -1,4 +1,3 @@
 # bonesaw
-is ready
 
-good times side project
+the original is :coffin:
