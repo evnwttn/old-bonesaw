@@ -20,6 +20,11 @@ html {
   background-attachment: fixed;
 }
 
+#top-icons {
+  position: absolute;
+  right: 5%;
+}
+
 #box-1 {
   top: 16%;
   left: 20%;
@@ -43,9 +48,4 @@ html {
   border-left: transparent;
   border-right: 4px solid #637371;
   border-top: transparent;
-}
-
-#top-icons {
-  position: absolute;
-  right: 5%;
 }
