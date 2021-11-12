@@ -19,3 +19,12 @@ html {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
+#box-1 {
+  top: 11%;
+  left: 56%;
+  width: 37%;
+  height: 47%;
+  background-color: #0d0d0d;
+  position: absolute;
+}
